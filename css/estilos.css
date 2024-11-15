@@ -3,9 +3,9 @@ body {
     font-style: italic;
     color: rgb(4, 170, 4);
 }
-P{
+p{
     font-size: 28 px;
-    color: rgb (75,0,255);
+    color:rgb(255, 170, 4); 
     font-style: italic;
     
 }
